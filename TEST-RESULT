@@ -1,0 +1,6 @@
+Testiranje black box metodom:
+
+Program ne prepoznaje operaciju deljenja sa brojem 0, umesto 0 ispise 'infinity'.
+Program ne prepoznaje decimalni broj kada se napise u obliku npr. (2,222 + 2,333), prepoznaje jedino kada bi se ispisalo (2.222 + 2.333).
+Kod bi trebao da sadrzi upute za koriscenje kalkulatora, da bi korisnici lakse mogli da razumeju.
+Ako se unesu slova umesto brojeva prijavljuje gresku (error) .
